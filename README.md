@@ -20,5 +20,5 @@ Designed for researchers who need a fast, reliable, and transparent way to proce
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/KrzysztofDorywalski/Drop-O-Matic.git](https://github.com/KrzysztofDorywalski/Drop-O-Matic.git)
+   git clone https://github.com/KrzysztofDorywalski/Drop-O-Matic.git
    cd Drop-O-Matic
