@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dorywalski"
+  given-names: "Krzysztof"
+title: "Drop-O-Matic: Open-source tool for dynamic contact angle determination"
+version: 1.0.0
+date-released: 2026-04-08
+url: "https://github.com/KrzysztofDorywalski/Drop-O-Matic"
