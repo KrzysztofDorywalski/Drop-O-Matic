@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1204802582.svg)](https://doi.org/10.5281/zenodo.19470984)
+
 # 💧 Drop-O-Matic
 
 **Drop-O-Matic** is a lightweight, easy-to-use, open-source Python tool designed for the determination of dynamic contact angles from video measurements using **Sessile Drop** and **Captive Bubble** methods.
